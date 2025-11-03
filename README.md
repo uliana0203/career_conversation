@@ -144,7 +144,4 @@ Open that link in your browser.
 ## 🧠 About
 
 Created by **Uliana Zbezhkhovska**  
-Research interests: AI for security, deepfake audio detection, educational quality assurance, and science diplomacy.  
 
-**Demo:**  
-👉 [https://huggingface.co/spaces/Uliana333/career_conversation](https://huggingface.co/spaces/Uliana333/career_conversation)
