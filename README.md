@@ -128,8 +128,6 @@ Below is a preview of how the chatbot looks when running on [Hugging Face Spaces
 
 ![Career Conversation App Screenshot](https://github.com/Uliana0203/career_conversation/blob/main/demo.png?raw=true)
 
-> 💬 The app allows users to chat with Uliana Zbezhkhovska’s AI profile, request information about her career, research, and publications.
-
 ---
 
 ## 🛡️ Security Notes
